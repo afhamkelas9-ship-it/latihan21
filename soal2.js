@@ -1,0 +1,1 @@
+console.log("buatlah aplikasi geometry sabanyak 200,00")
